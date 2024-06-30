@@ -1,0 +1,8 @@
+prefix=/home/virus/workspace/install
+
+Name: lcd_monitor
+Description: Description of lcd_monitor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

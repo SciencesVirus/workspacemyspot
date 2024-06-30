@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/virus/workspace/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/virus/workspace/src/spot_micro_motion_cmd/include/**",
+                "/usr/include/**",
+                "/home/virus/workspace/src/spot_micro_motion_cmd/libs/spot_micro_kinematics_cpp/**",
+                "/home/virus/workspace/src/spot_micro_motion_cmd/include/spot_micro_motion_cmd/**",
+                "/home/virus/workspace/src/spot_micro_motion_cmd/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-arm64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

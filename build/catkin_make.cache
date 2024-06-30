@@ -1,0 +1,2 @@
+lcd_monitor:ros-i2cpwmboard:servo_move_keyboard:spot_micro_joy:spot_micro_keyboard_command:spot_micro_launch:spot_micro_motion_cmd:spot_micro_plot:spot_micro_rviz
+-DCATKIN_DEVEL_PREFIX=/home/virus/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/virus/workspace/install -G Unix Makefiles
